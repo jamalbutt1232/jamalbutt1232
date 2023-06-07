@@ -1,4 +1,4 @@
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <h1 align="center">I'm Jamal Butt</h1>
 <h3 align="center">cout << "I'm a Full Stack Web Application Developer" << endl </h3>
