@@ -19,7 +19,7 @@ Here are some ideas to get you started:-->
 
 - 📫 How to reach me: _jamalbutt1232@gmail.com_
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/14eV6cUrk55osCQbI6wqvJEJh1mv2lQ1wZqPiE4Gv1L8/edit?usp=sharing)(https://drive.google.com/file/d/1bjqm7G6FqBtAn1riTOpjPIN3ENOBeZPH/view?usp=sharing)) [My LinkedIn](https://www.linkedin.com/in/jamal-butt-b8a283194/)
+- 📄 Know about my experiences [My Resume] (https://drive.google.com/file/d/1bjqm7G6FqBtAn1riTOpjPIN3ENOBeZPH/view?usp=sharing) [My LinkedIn](https://www.linkedin.com/in/jamal-butt-b8a283194/)
 
 - 😄 Pronouns: He/Him
 
