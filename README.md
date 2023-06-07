@@ -3,10 +3,10 @@
 <h1 align="center">I'm Jamal Butt</h1>
 <h3 align="center">cout << "I'm a Full Stack Web Application Developer" << endl </h3>
 
-![](https://komarev.com/ghpvc/?username=smash-96&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=jamalbutt1232&label=PROFILE+VIEWS)
 [![wakatime](https://wakatime.com/badge/user/7f42371f-1ba7-4411-acb9-a15f709b17d3.svg)](https://wakatime.com/@7f42371f-1ba7-4411-acb9-a15f709b17d3)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smash-96" alt="smash-96" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamalbutt1232" alt="jamalbutt1232" /></a> </p>
 
 <!--
 *jamalbutt1232/jamalbutt1232* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
